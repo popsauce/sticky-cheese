@@ -1,0 +1,24 @@
+I'd like to thank Popsauce and ask for his blessings to code in sticky-cheese:
+
+#output
+give
+
+(give=n=number;;give=m=text)
+
+#input
+Take
+
+#loop
+Repeat:
+
+#loop options
+Till
+From
+custom
+skip
+
+#if condition
+Condition:
+
+True
+False
