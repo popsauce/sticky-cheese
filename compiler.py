@@ -4,7 +4,7 @@ line=f.readlines()
 if len(line)==0:
     print("source.pops file does not exist or it is empty.")
 
-if line[0]=="I'd like to thank Popsauce and ask for his blessings to code in sticky-chees":
+if line[0]=="I'd like to thank Popsauce and ask for his blessings to code in sticky-cheese":
     variables=[]
     values=[]
     l=0
